@@ -120,7 +120,7 @@ Query 6.3 – Revenue Contribution Analysis
 # Query 6.3 - Output Screenshot 
 ![Query Output - 6.3](/Images/Output_6.3_reveneu_trend.png)
 
-**🔑 10️⃣ Key Insights Derived from Analysis**
+**🔑 8️⃣ Key Insights Derived from Analysis**
 
 Peak Periods: Orders peak during specific hours and weekends
 
@@ -134,7 +134,7 @@ Customer Behavior: Ordering patterns vary significantly by time and day
 
 These insights help improve inventory planning, staff allocation, and menu optimization.
 
-**11️⃣ Technology Stack**
+**9️⃣ Technology Stack**
 
 Database: MySQL
 
@@ -148,7 +148,7 @@ Version Control: Git & GitHub
 
 Domain: Retail & Food Business Analytics
 
-**12️⃣ Project Usage**
+**🔟 Project Usage**
 
 This project can be used for:
 
@@ -160,7 +160,7 @@ Business analytics demonstrations
 
 GitHub portfolio showcase
 
-**13️⃣ How to Run the Project**
+**1️⃣1️⃣ How to Run the Project**
 
 Create a database in MySQL
 
@@ -170,6 +170,6 @@ Execute queries from pizza_sales.sql
 
 Review output images and insights
 
-**14️⃣ Disclaimer**
+**1️⃣2️⃣ Disclaimer**
 
 This dataset is used strictly for educational and analytical purposes.
