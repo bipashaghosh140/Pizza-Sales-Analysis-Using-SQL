@@ -110,7 +110,7 @@ Query 5 – Average Order Value (AOV)
 
 Query 6.1 – Category Contribution
 # Query 6.1 - Output Screenshot 
-![Query Output - 6.1](/Images/Output_6_CATEGORY_CONTRIBUTION.png)
+![Query Output - 6.1](/Images/Output_6_Category_Contribution.png)
 
 Query 6.2 – Pizza Size Performance
 # Query 6.2 - Output Screenshot 
