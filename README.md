@@ -118,7 +118,7 @@ Query 6.2 – Pizza Size Performance
 
 Query 6.3 – Revenue Contribution Analysis
 # Query 6.3 - Output Screenshot 
-![Query Output - 6.3](/Images/Output_6_revenue_trend.png)
+![Query Output - 6.3](/Output_6.3_revenue_trend.png)
 
 **🔑 10️⃣ Key Insights Derived from Analysis**
 
